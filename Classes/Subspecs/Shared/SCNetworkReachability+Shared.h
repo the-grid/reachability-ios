@@ -7,7 +7,7 @@
 //
 
 #import "SCNetworkReachability.h"
-#import <ABMultiton/ABMultitonProtocol.h>
+#import "ABMultitonProtocol.h"
 
 @interface SCNetworkReachability (Shared) <ABMultitonProtocol>
 
